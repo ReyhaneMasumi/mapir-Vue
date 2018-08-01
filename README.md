@@ -10,7 +10,11 @@ In order to add Map.ir inside your Vue project, few steps should be followed:
 
 ### Download
 
-[Download the Map.ir Vue Component 🔗]()
+install `mapir-vue` npm module as dependancy in your project:
+
+```shell
+npm i mapir-vue
+```
 
 Also install `leaflet` npm module as dependancy in your project:
 
@@ -33,12 +37,6 @@ Add the following stylesheets to your index.html head tag:
 ---
 
 #### Basic map
-
-install `mapir-vue` npm module as dependancy in your project:
-
-```shell
-npm i mapir-vue
-```
 
 import vue module:
 ```js
