@@ -28,6 +28,7 @@ Add the following stylesheets to your index.html head tag:
   href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"
   integrity="sha512-ksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
 />
+```
 ### Getting started
 ---
 
